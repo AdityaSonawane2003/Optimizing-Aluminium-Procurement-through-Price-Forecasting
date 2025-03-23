@@ -4,6 +4,9 @@
 
 The **"Optimizing Aluminium Procurement through Price Forecasting"** project focuses on leveraging time series forecasting techniques to predict aluminium prices. Accurate price forecasting aids in optimizing procurement strategies, reducing costs, and improving supply chain efficiency.
 
+*Note: This project is part of a company initiative, and due to confidentiality policies, the implementation code is not shared publicly. However, the methodology, findings, and insights are available for review.*
+
+
 • **Business Problem:** The company faces challenges in efficiently procuring aluminium, a critical raw material for the steel and manufacturing industries. Currently, procurement is carried out on an ad-hoc basis without considering price fluctuations. This reactive approach often leads to higher procurement costs, directly affecting the company’s operational efficiency and profitability. Implementing a more strategic and data-driven approach to aluminium procurement can help mitigate these challenges and optimize costs.
 
 • **Business Objective:** Minimize Procurement Costs
